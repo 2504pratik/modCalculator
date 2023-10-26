@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mod Calculator</string>
+    <string name="formula">x^y mod n = ?</string>
+    <string name="base">Base (x)</string>
+    <string name="exponent">Exponent (y)</string>
+    <string name="divisor">Divisor (n)</string>
+    <string name="answer">0</string>
+    <string name="calculate">Calculate</string>
+</resources>
